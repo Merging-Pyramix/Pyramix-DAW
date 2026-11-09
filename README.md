@@ -82,7 +82,7 @@ The tests provide several focused examples of how another audio application chec
 At a lower level, [ArrayVectorTest.cpp](tests/src/core/ArrayVectorTest.cpp) tests container behavior.
 [MathTest.cpp](tests/src/core/MathTest.cpp) checks a numerical utility for counting digits.
 
-![Main microphones and spot microphones balanced alongside a passage of mix automation](buildtools/01.png)
+![Main microphones and spot microphones balanced alongside a passage of mix automation](buildtools/02.png)
 
 ## Define the master by its intended destination
 
